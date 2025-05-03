@@ -1,7 +1,3 @@
-Sure! Here's your full explanation of JavaScript Promises, starting with **your wording** and blending it naturally into a complete, structured explanation:
-
----
-
 # 📘 JavaScript Promises – The Complete Guide
 
 A **Promise** is an object that represents the **eventual completion (or failure)** of an asynchronous operation.
